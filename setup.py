@@ -26,7 +26,7 @@ setup(
     download_url='https://github.com/impulsare/config/tarball/' + __version__,
     license='AGPLv3',
     classifiers=[
-      'Development Status :: 3 - Alpha',
+      'Development Status :: 4 - Beta',
       'Intended Audience :: Developers',
       'Programming Language :: Python :: 3',
     ],
