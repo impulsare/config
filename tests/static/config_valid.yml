@@ -1,0 +1,3 @@
+debug: true
+extra: 'abc'
+logger: syslog
