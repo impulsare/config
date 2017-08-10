@@ -20,7 +20,7 @@ dependency_links = [x.strip().replace('git+', '') for x in all_reqs if x.startsw
 setup(
     name='impulsare-config',
     version=__version__,
-    description='A config reader (ini) that validates config files content.',
+    description='A config reader (yaml) that validates config files content.',
     long_description=long_description,
     url='https://github.com/impulsare/config',
     download_url='https://github.com/impulsare/config/tarball/' + __version__,
