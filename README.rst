@@ -1,6 +1,13 @@
 impulsare/config
 ==================================
 
+.. image:: https://travis-ci.org/impulsare/config.svg?branch=master
+    :target: https://travis-ci.org/impulsare/config
+
+.. image:: https://scrutinizer-ci.com/g/impulsare/config/badges/quality-score.png?b=master
+    :target: https://scrutinizer-ci.com/g/impulsare/config/
+
+
 Overview
 --------------------------
 A config reader, that validates a YAML config file and add default values if required.
