@@ -51,4 +51,4 @@ Development & Tests
 
     $ pip install -r requirements.txt
     $ pip install -r requirements-dev.txt
-    $ py.test --cov-report html --cov=impulsare_config tests/
+    $ py.test
